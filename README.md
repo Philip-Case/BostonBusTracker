@@ -48,6 +48,5 @@
 1. MIT License
 2. MBTA License
 3. Google Maps API License
-4. 
 
 
